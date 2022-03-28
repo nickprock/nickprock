@@ -2,8 +2,8 @@
 
 I am a Data Scientist with a strong passion for machine learning algorithms and dissemination.
 
-- 🔭 I’m currently working on Digital Health topics
-- 👯 I’m looking to collaborate on an open source project
+- :pill: I’m currently working on Digital Health topics
+- :floppy_disk: I’m looking to collaborate on an open source project
 
 <!--
 **nickprock/nickprock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
