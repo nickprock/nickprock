@@ -7,9 +7,9 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
 
 #### GitHub Stats
 
-[![nickprock's github stats](https://github-readme-stats.vercel.app/api?username=nickprock&count_private=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![nickprock's github stats](https://github-readme-stats.vercel.app/api?username=nickprock&count_private=true&cache_seconds=1800&&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickprock&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickprock&layout=compact&&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Let's Connect ####
