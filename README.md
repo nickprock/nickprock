@@ -17,6 +17,12 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
 <a href="https://www.linkedin.com/in/nicolaprocopio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.it/citations?user=uDzmKucAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
 
+---
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nickprock's stats" src="https://github-readme-stats.vercel.app/api?username=nickprock&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs"></a><br>
+</p>
+
 <!--
 **nickprock/nickprock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
