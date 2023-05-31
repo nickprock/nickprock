@@ -19,9 +19,7 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
 
 ---
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nickprock's stats" src="https://github-readme-stats.vercel.app/api?username=nickprock&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs"></a><br>
-</p>
+![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickprock&theme=chartreuse-dark&show_icons=true)
 
 <!--
 **nickprock/nickprock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
