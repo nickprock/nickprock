@@ -2,8 +2,9 @@
 
 I am a Data Scientist with a strong passion for machine learning algorithms and dissemination.
 
-- :pill: I’m currently working on Digital Health topics
+- :pill: I’m currently working on NLP topics
 - :floppy_disk: I’m looking to collaborate on an open source project
+   - 😼 [Cheshire-Cat](https://github.com/cheshire-cat-ai) Core Contributor
 - :hugs: I'm currently learning and experimenting with Huggingface libraries for text tasks
 
 <!--
