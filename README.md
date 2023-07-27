@@ -6,7 +6,7 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
 - :floppy_disk: I’m looking to collaborate on an open source project
    - 😼 [Cheshire-Cat](https://github.com/cheshire-cat-ai) Core Contributor
 - :hugs: I'm currently learning and experimenting with Hugging Face libraries for text tasks
-   - [my Hugging Face profile](https://huggingface.co/nickprock)
+   - [my profile on Hugging Face Hub](https://huggingface.co/nickprock)
 
 <!--
 [![nickprock's github stats](https://github-readme-stats.vercel.app/api?username=nickprock&count_private=true&cache_seconds=1800&&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
