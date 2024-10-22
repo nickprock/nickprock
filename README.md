@@ -8,7 +8,7 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
    - 🌾 [Haystack](https://github.com/deepset-ai/haystack) Contributor
 - 📓 I'm currently learning and experimenting with
    - :hugs: Hugging Face libraries for text tasks, in particular [Sentence Transformers](https://sbert.net/index.html)
-   - 🌌 [Qdrant](https://qdrant.tech/) Database
+   - 🚀 [Qdrant](https://qdrant.tech/) Database
 
 <!--
 [![nickprock's github stats](https://github-readme-stats.vercel.app/api?username=nickprock&count_private=true&cache_seconds=1800&&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
