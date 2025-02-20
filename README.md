@@ -9,6 +9,7 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
 - 📓 I'm currently learning and experimenting with
    - :hugs: Hugging Face libraries for text tasks, in particular [Sentence Transformers](https://sbert.net/index.html)
    - 🚀 [Qdrant](https://qdrant.tech/) Database
+- 📣 Here you can check the [slides from my talks](https://github.com/nickprock/tech-talks).
 
 <!--
 [![nickprock's github stats](https://github-readme-stats.vercel.app/api?username=nickprock&count_private=true&cache_seconds=1800&&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
