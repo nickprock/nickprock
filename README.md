@@ -6,6 +6,7 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
 - :floppy_disk: I’m looking to collaborate on an open source project
    - 😼 [Cheshire-Cat](https://github.com/cheshire-cat-ai) Core Contributor
    - 🌾 [Haystack](https://github.com/deepset-ai/haystack) Contributor
+   - 📎 [ArchAI Labs](https://github.com/ArchAI-Labs) Contributor
 - 📓 I'm currently learning and experimenting with
    - :hugs: Hugging Face libraries for text tasks, in particular [Sentence Transformers](https://sbert.net/index.html)
    - 🚀 [Qdrant](https://qdrant.tech/) Database
