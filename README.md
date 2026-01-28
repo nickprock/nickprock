@@ -12,6 +12,11 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
    - 🚀 [Qdrant](https://qdrant.tech/) Database
 - 📣 Here you can check the [slides from my talks](https://github.com/nickprock/tech-talks).
 
+---
+
+[![Qdrant Essentials Certified](https://dev.qdrant.dev/functions/v1/certificate-badge?id=QDRANT-36B5CD7B&v=qdrant-essentials)](https://train.qdrant.dev/certificate/QDRANT-36B5CD7B)
+
+---
 <!--
 [![nickprock's github stats](https://github-readme-stats.vercel.app/api?username=nickprock&count_private=true&cache_seconds=1800&&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
