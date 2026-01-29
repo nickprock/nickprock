@@ -29,9 +29,13 @@ I am a Data Scientist with a strong passion for machine learning algorithms and 
 <a href="https://scholar.google.it/citations?user=uDzmKucAAAAJ" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
 <a href="https://medium.com/@nickprock" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 
+<!---
 ---
 
 ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickprock&theme=chartreuse-dark&show_icons=true)
+
+---
+-->
 
 <!--
 **nickprock/nickprock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
